@@ -106,7 +106,7 @@ public class Welcome extends AppCompatActivity {
             @Override
             public void onClick(View v) {
               //  Intent i = new Intent(this, Connection.class);
-                startActivity(new Intent(Welcome.this, Connection.class));
+                startActivity(new Intent(Welcome.this, ConnectionActivity.class));
             }
         });
 
