@@ -6,9 +6,9 @@
 
     <string name="title_activity_connection">Connection</string>
 
-    <string name="facebook_app_id">437302439968402</string>
+    <string name="facebook_app_id">1174622272644306</string>
 
 
-    <string name="fb_login_protocol_scheme">fb437302439968402</string>
 
+    <string name="fb_login_protocol_scheme">fb1174622272644306</string>
 </resources>
